@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">UTS_AdhityaDwiCahyana_10116010</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+    <string name="slide_1_title">Tambah Kontak</string>
+    <string name="slide_1_desc">Ayo ajak temanmu untuk bergabung</string>
+    <string name="slide_2_title">Update Kontak</string>
+    <string name="slide_2_desc">Lakukan update untuk setiap kontakmu</string>
+    <string name="slide_3_title">Hapus Kontak</string>
+    <string name="slide_3_desc">Kontak temanmu hilang?? Segeralah hapus dari list kontak</string>
+    <string name="play_again_desc">Untuk melihatnya lagi Settings -> apps -> Intro View -> clear data</string>
+    <string name="play_again">Play Again</string>
+    <string name="title_activity_menu__utama">Menu_Utama</string>
+    <string name="title_activity_menu__kontak">Menu_Kontak</string>
+    <string name="title_activity_menu__list">Menu_List</string>
+    <string name="title_home">Profile</string>
+    <string name="title_dashboard">Contact</string>
+    <string name="title_notifications">Friend</string>
+</resources>
