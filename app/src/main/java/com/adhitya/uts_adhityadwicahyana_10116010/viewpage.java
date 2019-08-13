@@ -100,7 +100,7 @@ public class viewpage extends AppCompatActivity {
 
     private void launchHomeScreen() {
         prefManager.setFirstTimeLaunch(false);
-        startActivity(new Intent(viewpage.this, Menu_Utama.class));
+        startActivity(new Intent(viewpage.this, LoginActivity.class));
         finish();
     }
 
